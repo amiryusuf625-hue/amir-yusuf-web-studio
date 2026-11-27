@@ -21,7 +21,7 @@ A responsive React + Vite starter website for Amir Yusuf Web Development Studio.
 Run npm run build. The production website is generated in the dist folder.
 
 ## Before publishing
-- Replace hello@amirwebstudio.com in src/main.jsx with your real business email.
+- Replace hello@amirwebstudio.com in main.jsx with your real business email.
 - Add your real social links.
 - Replace or update the sample project descriptions with your own work.
 - The contact form currently opens the visitor's email application. It does not yet store enquiries in a database.
